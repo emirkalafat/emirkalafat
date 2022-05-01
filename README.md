@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkalafat&label=Profile%20views&color=0e75b6&style=flat" alt="emirkalafat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirkalafat" alt="emirkalafat" /></a> </p>
-
 - 🔭 I’m currently working on [Car controlled with phone via bluetooth](https://github.com/emirkalafat/FSMVU_MS_CarProjectApp)
 
 - 🌱 I’m currently learning **C, C# and especially Python**
