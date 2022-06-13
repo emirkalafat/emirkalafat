@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkalafat&label=Profile%20views&color=04c4d2&style=flat" alt="emirkalafat" /> </p>
 
-- 🔭 I’m currently working on [Car controlled with phone via bluetooth](https://github.com/emirkalafat/FSMVU_MS_CarProjectApp)
+- 🔭 I’m currently working on **Flutter App about Sharing Recipes**
 
-- 🌱 I’m currently learning **C, C# and especially Python**
+- 🌱 I’m currently learning **C, C#, Python and especially Flutter**
 
 - 📫 How to reach me **emirklft@outlook.com**
 
