@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, C#, Python and especially Flutter**
 
-- 📫 How to reach me **emirklft@outlook.com**
+- 📫 How to reach me **a.emirkalafat@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emir-kalafat/](https://www.linkedin.com/in/emir-kalafat/)
 
