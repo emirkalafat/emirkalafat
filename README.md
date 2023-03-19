@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emir Kalafat</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Emir Kalafat</h1>
 <h3 align="center">A student at Fatih Sultan Mehmet University from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkalafat&label=Profile%20views&color=04c4d2&style=flat" alt="emirkalafat" /> </p>
